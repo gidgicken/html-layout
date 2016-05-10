@@ -1,0 +1,39 @@
+.header-menu {
+  height: 15vh;
+  width: 100%;
+  background: lightgrey;
+}
+.logo-square {
+  margin: 10px 0 0 20px;
+  background: #1a75ff;
+  float: left;
+  height: 75px;
+  width: 70px;
+}
+.main-content {
+  padding: 50px;
+}
+.main-content p {
+  font-size: 20px;
+  font-family: Tahoma;
+}
+.row1 {
+  height: 20vh;
+  width: 100%;
+  background: #1a75ff;
+}
+.row2 {
+  height: 20vh;
+  width: 100%;
+  background: #00ff99;
+}
+.row3 {
+  height: 20vh;
+  width: 100%;
+  background: #5cd65c;
+}
+.row4 {
+  height: 20vh;
+  width: 100%;
+  background: #ffff00;
+}
