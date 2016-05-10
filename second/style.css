@@ -1,0 +1,31 @@
+.left-column {
+  height: 100vh;
+  width: calc(100% / 3);
+  float: left;
+  background: #0066FF;
+}
+.middle-column {
+  height: 100vh;
+  width: calc(100% / 3);
+  float: left;
+  background: #00FF99;
+}
+.right-column {
+  height: 75vh;
+  width: calc(100% / 3);
+  float: left;
+  background: #66FF66;
+}
+.img-placeholder {
+  height: 25vh;
+  width: calc(100% / 3);;
+  float: right;
+  background-color: red;
+  text-align: center;
+}
+.img-placeholder h2 {
+  margin: 70px 0 50px 0;;
+  color: white;
+  font-family: sans-serif;
+  font-weight: normal;
+}
